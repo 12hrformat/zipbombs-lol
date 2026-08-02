@@ -4,5 +4,6 @@
 
 ```
 git clone https://github.com/12hrformat/zipbombs-lol.git
+cd zipbombs-lol
 unzip zipbomb.zip
 ```
